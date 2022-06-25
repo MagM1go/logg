@@ -1,0 +1,1 @@
+from .pars_cfg import Config
