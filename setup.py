@@ -7,7 +7,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
-	name="Logg",
+	name="logg",
 	version="1.0",
 	author="MagMigo",
 	description="simple logging",
