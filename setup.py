@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
 	name="logg",
-	version="1.1",
+	version="1.2",
 	author="MagMigo",
 	description="simple logging",
 	long_description=README,
