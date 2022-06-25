@@ -1,7 +1,7 @@
 from typing import Optional
 from datetime import datetime
 
-from utils.pars_cfg import Config
+from .utils.pars_cfg import Config
 
 
 class Logger:
